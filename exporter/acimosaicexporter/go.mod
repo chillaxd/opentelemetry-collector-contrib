@@ -1,4 +1,4 @@
-module github.com/open-telemetry/opentelemetry-collector-contrib/exporter/acimosaicexporter
+module github.com/chillaxd/opentelemetry-collector-contrib/exporter/acimosaicexporter
 
 go 1.19
 
